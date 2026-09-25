@@ -8,7 +8,7 @@ vat = price * 0.07
 
 net_price = price - vat
 
-st.write("นางสาววาดใจ ยิ้มแย้ม เลขที่ 5 ม.4/5")
+st.write("นายชุติพนธ์ กุศล เลขที่ 18 ม.4/15")
 
 st.divider()
 
